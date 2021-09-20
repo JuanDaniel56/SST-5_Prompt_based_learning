@@ -1,0 +1,5 @@
+0	it	is	terrible
+1	it	is	bad
+2	it	is	common
+3	it	is	good
+4	it	is	nice
